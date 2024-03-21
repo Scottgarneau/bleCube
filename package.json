@@ -1,0 +1,24 @@
+{
+  "name": "ble-cube",
+  "version": "1.0.0",
+  "description": "This app uses the web bluetooth API to translate ble signals from a device into the motion of a cube.",
+  "main": "index.js",
+  "scripts": {
+    "test": "bleCube test",
+    "build": "yarn build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Scottgarneau/bleCube.git"
+  },
+  "keywords": [
+    "ble",
+    "cube"
+  ],
+  "author": "Scott Garneau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Scottgarneau/bleCube/issues"
+  },
+  "homepage": "https://github.com/Scottgarneau/bleCube#readme"
+}
